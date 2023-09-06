@@ -2,9 +2,9 @@
 <manifest>
 
  <!-- Trees -->
- <project path="d/device_xiaomi_vili1" name="Idkjjjj/device_xiaomi_vili.git" remote="github" revision="topaz" />
- <project path="d/device_xiaomi_vili2" name="Idkjjjj/device_xiaomi_sm8350-common.git" remote="github" revision="topaz" />
- <project path="d/device_xiaomi_vili3" name="Idkjjjj/vendor_xiaomi.git" remote="github" revision="topaz" />
- <project path="d/device_xiaomi_vili4" name="Idkjjjj/Idkjjjj/kernel_xiaomi_sm8350.git" remote="github" revision="topaz" />
+ <project path="device/xiaomi/vili" name="Idkjjjj/device_xiaomi_vili.git" remote="github" revision="topaz" />
+ <project path="device/xiaomi/sm8350-common" name="Idkjjjj/device_xiaomi_sm8350-common.git" remote="github" revision="topaz" />
+ <project path="vendor/xiaomi" name="Idkjjjj/vendor_xiaomi.git" remote="github" revision="topaz" />
+ <project path="kernel/xiaomi/sm8350" name="Idkjjjj/kernel_xiaomi_sm8350.git" remote="github" revision="topaz" />
 
 </manifest>
